@@ -1,2 +1,2 @@
 # assets
-All the required assets needed across the platform
+All the assets used across our different plateforms
